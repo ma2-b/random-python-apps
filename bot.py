@@ -1,3 +1,5 @@
+# before you run the app go to any of your chats on any social media platform and press on the chat area
+
 import time 
 import pyautogui as pg
 
